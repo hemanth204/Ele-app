@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Table Git" max_length="40" name="x_69202_elec_app_table_git" type="collection"/>
+    <element label="Table Git" max_length="40" name="x_69202_elec_app_table_git" type="collection">
+        <element label="Test 123" max_length="40" name="test_123" type="string"/>
+        <element label="Test 456" max_length="40" name="test_456" type="string"/>
+    </element>
 </database>
